@@ -26,7 +26,7 @@
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](mcal.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](calmonthyear.png)
+![cal-month command output](calmonthyear.png.png)
 ### CAL-MONTH COMMAND MANUAL
 ![cal-month command manual](mcal.png)
 ### WHO COMMAND OUTPUT 
@@ -46,11 +46,11 @@
 ### UNAME COMMAND MANUAL
 ![uname command manual](muname.png)
 ### UNAME-R COMMAND OUTPUT
-![uname-r command output](unamer.png)
+![uname-r command output](unamer.png.png)
 ### UNAME-R COMMAND MANUAL
 ![uname-r command manual](muname1.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](unamen.png)
+![uname-n command output](unamen.png.png)
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
