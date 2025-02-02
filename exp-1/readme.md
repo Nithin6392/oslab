@@ -173,7 +173,7 @@
 ### CHMOD COMMAND OUTPUT
 ![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
-![chmod command manual](mchmod.png)
+![chmod command manual](mchmod(1).png)
 
 
 
