@@ -4,19 +4,19 @@
 ### DATE COMMAND OUTPUT
 ![date command output](date.png.png)   
 ### DATE COMMAND MANUAL
-![date command manual](date +%D.png)
+![date command manual](datecom.png)
 ### DATE TIME COMMAND OUTPUT
-![date time command output](date+%T.png)
+![date time command output](date2.png)
 ### DATE TIME COMMAND MANUAL
-![date time command manual](date+%H.png)
+![date time command manual](datecom.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](date+%Y.png)
+![date year command output](date3.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](date1.png)
+![date year command manual](datec0m.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](date3.png)
+![date hour command output](date4.png)
 ### DATE HOUR COMMAND MANUAL
-![date hour command manual](mdate3.png)
+![date hour command manual](datecom.png)
 ### CAL COMMAND OUTPUT
 ![cal command output](cal.png)
 ### CAL COMMAND MANUAL
