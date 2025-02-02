@@ -12,7 +12,7 @@
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date3.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](datec0m.png)
+![date year command manual](datecom.png)
 ### DATE HOUR COMMAND OUTPUT
 ![date hour command output](date4.png)
 ### DATE HOUR COMMAND MANUAL
