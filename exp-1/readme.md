@@ -4,7 +4,7 @@
 ### DATE COMMAND OUTPUT
 ![date command output](date.png.png)   
 ### DATE COMMAND MANUAL
-![date command manual](date+%D.png)
+![date command manual](date +%D.png)
 ### DATE TIME COMMAND OUTPUT
 ![date time command output](date+%T.png)
 ### DATE TIME COMMAND MANUAL
