@@ -101,7 +101,7 @@
 ### CAT COMMAND OUTPUT
 ![cat command output](catfilename.png)
 ### CAT COMMAND MANUAL
-![cat command manual](mcat.png)
+![cat command manual](catnewfilename.png)
 ### CAT >> COMMAND OUTPUT
 ![cat >> command output](catapendfilename.png)
 ### CAT >> COMMAND MANUAL 
@@ -111,11 +111,11 @@
 ### CP COMMAND MANUAL
 ![cp command manual](mcp.png)
 ### CP -I COMMAND OUTPUT
-![cp -i command output](cp1.png)
+![cp -i command output](cpi.png)
 ### CP -I COMMAND MANUAL
 ![cp -i command manual](mcp.png)
 ### CP -R COMMAND OUTPUT
-![cp -r command output](cp2.png)
+![cp -r command output](cpsrcdest.png)
 ### CP -R COMMAND MANUAL
 ![cp -r command manual](mcp.png)
 ### MV OLD NEW COMMAND OUTPUT
@@ -167,7 +167,7 @@
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](mls.png)
 ### CMP COMMAND OUTPUT
-![cmp command output](cmp.png)
+![cmp command output](cmdname.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mcmp.png)
 ### CHMOD COMMAND OUTPUT
