@@ -22,7 +22,7 @@
 ### CAL COMMAND MANUAL
 ![cal command manual](mcal.png)
 ### CAL-YEAR COMMAND OUTPUT
-![cal-year command output](cal1.png)
+![cal-year command output](calyear.png)
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](mcal.png)
 ### CAL-MONTH COMMAND OUTPUT
