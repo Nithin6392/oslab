@@ -26,7 +26,7 @@
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](mcal.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](calmonthyear.png.png)
+![cal-month command output](calmonthyear.png)
 ### CAL-MONTH COMMAND MANUAL
 ![cal-month command manual](mcal.png)
 ### WHO COMMAND OUTPUT 
