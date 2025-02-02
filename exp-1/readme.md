@@ -26,7 +26,7 @@
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](mcal.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](cal2.png)
+![cal-month command output](calmonthyear.png)
 ### CAL-MONTH COMMAND MANUAL
 ![cal-month command manual](mcal.png)
 ### WHO COMMAND OUTPUT 
@@ -46,11 +46,11 @@
 ### UNAME COMMAND MANUAL
 ![uname command manual](muname.png)
 ### UNAME-R COMMAND OUTPUT
-![uname-r command output](uname1.png)
+![uname-r command output](unamer.png)
 ### UNAME-R COMMAND MANUAL
 ![uname-r command manual](muname1.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](uname2.png)
+![uname-n command output](unamen.png)
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
 ### ECHO COMMAND OUTPUT
@@ -58,7 +58,7 @@
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo1.png)
+![echo $ command output](echoHome.png)
 ### ECHO $ COMMAND MANUAL 
 ![echo $ command manual](mecho1.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
