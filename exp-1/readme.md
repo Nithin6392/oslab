@@ -48,11 +48,11 @@
 ### UNAME-R COMMAND OUTPUT
 ![uname-r command output](unamer.png)
 ### UNAME-R COMMAND MANUAL
-![uname-r command manual](muname1.png)
+![uname-r command manual](muname.png)
 ### UNAME-N COMMAND OUTPUT
 ![uname-n command output](unamen.png)
 ### UNAME-N COMMAND MANUAL
-![uname-n command manual](muname2.png)
+![uname-n command manual](muname1.png)
 ### ECHO COMMAND OUTPUT
 ![echo command output](echo.png)
 ### ECHO COMMAND MANUAL
