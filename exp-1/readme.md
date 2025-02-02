@@ -67,7 +67,7 @@
 ![bc command manual](mbc.png)
 ## IP FILE COMMANDS
 ### MAN COMMONAD OUTPUT
-![example using man command](mecho1.png)
+![example using man command](mcd.png)
 ### HISTORY COMMAND OUTPUT
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
