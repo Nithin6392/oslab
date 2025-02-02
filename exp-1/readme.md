@@ -86,11 +86,11 @@
 ### MKDIR COMMAND MANUAL
 ![mkdir command manual](mmkdir.png)
 ### CD  SUBDIR COMMAND OUTPUT
-![cd command output](cd.png)
+![cd command output](cdsubdir.png)
 ### CD SUBDIR COMMAND MANUAL
 ![cd command manual](mcd.png)
 ### CD .. COMMAND OUTPUT
-![cd .. command output](cd1.png)
+![cd .. command output](cd...png)
 ### CD .. COMMAND MANUAL
 ![cd .. command manual](mcd1.png)
 ### RMDIR COMMAND OUTPUT
@@ -99,11 +99,11 @@
 ![rmdir command manual](mrmdir.png)
 ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
-![cat command output](cat.png)
+![cat command output](catfilename.png)
 ### CAT COMMAND MANUAL
 ![cat command manual](mcat.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](cat2.png)
+![cat >> command output](catapendfilename.png)
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
@@ -143,27 +143,27 @@
 ### RM -F * COMMAND OUTPUT
 ![rm -f * command manual](mrm.png)
 ### LS COMMAND OUTPUT
-![ls command output](ls.png)
+![ls command output](lsname.png)
 ### LS COMMAND MANUAL
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
-![ls name command output](ls1.png)
+![ls name command output](lsname1.png)
 ### LS NAME * COMMAND MANUAL
 ![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
-![ls - a command output](ls2.png)
+![ls - a command output](lsa.png)
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls3.png)
+![ls -x dir command output](ls-xdirname.png)
 ### LS - X DIR NAME COMMAND MANUAL
 ![ls -x dir command manual](mls.png)
 ### LS -R COMMAND OUTPUT
-![ls -r command manual](ls4.png)
+![ls -r command manual](lsR.png)
 ### LS -R COMMAND MANUAL
 ![ls -r command manual](mls.png)
 ### LS - L COMMAND OUTPUT
-![ls -l command output](ls5.png)
+![ls -l command output](lsl.png)
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](mls.png)
 ### CMP COMMAND OUTPUT
@@ -173,7 +173,7 @@
 ### CHMOD COMMAND OUTPUT
 ![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
-![chmod command manual](mchmod(1).png)
+![chmod command manual](mchmod.png)
 
 
 
