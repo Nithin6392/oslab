@@ -103,7 +103,7 @@
 ### CAT COMMAND MANUAL
 ![cat command manual](catnewfilename.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](catapendfilename.png)
+![cat >> command output](catapend.png)
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
@@ -149,15 +149,15 @@
 ### LS NAME * COMMAND OUTPUT
 ![ls name command output](lsname1.png)
 ### LS NAME * COMMAND MANUAL
-![ls name command manual](mls.png)
+![ls name command manual](ls.png)
 ### LS - A COMMAND OUTPUT
 ![ls - a command output](lsa.png)
 ### LS - A COMMAND MANUAL
-![ls -a command manual](mls.png)
+![ls -a command manual](lsa.png)
 ### LS -X DIR NAME COMMAND OUTPUT
 ![ls -x dir command output](ls-xdirname.png)
 ### LS - X DIR NAME COMMAND MANUAL
-![ls -x dir command manual](mls.png)
+![ls -x dir command manual](lsl.png)
 ### LS -R COMMAND OUTPUT
 ![ls -r command manual](lsR.png)
 ### LS -R COMMAND MANUAL
@@ -169,7 +169,7 @@
 ### CMP COMMAND OUTPUT
 ![cmp command output](cmdname.png)
 ### CMP COMMAND MANUAL
-![cmp command manual](mcmp.png)
+![cmp command manual](mcp.png)
 ### CHMOD COMMAND OUTPUT
 ![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
